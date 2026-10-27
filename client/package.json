@@ -48,5 +48,8 @@
   },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
-  "license": "MIT"
+  "license": "MIT",
+  "allowScripts": {
+    "esbuild@0.25.12": true
+  }
 }
